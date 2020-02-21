@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+And following this tutorial: https://www.cloudways.com/blog/use-react-with-wordpress-to-create-headless-cms/
+
 ## Available Scripts
 
 In the project directory, you can run:
